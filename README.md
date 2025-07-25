@@ -18,48 +18,48 @@
 
 **Gender:**
 
-Attrition is higher among males (140) compared to females (79).
+* Attrition is higher among males (140) compared to females (79).
 
 **Age:**
 
-The 26–35 age group shows the highest attrition (116), indicating mid-career professionals are most likely to leave.
+* The 26–35 age group shows the highest attrition (116), indicating mid-career professionals are most likely to leave.
 
-Younger employees (18–25) also show noticeable attrition (44), suggesting possible early dissatisfaction.
+* Younger employees (18–25) also show noticeable attrition (44), suggesting possible early dissatisfaction.
 
 🎓 **Attrition by Education Background**
 
-Life Sciences (38%) and Medical (27%) backgrounds account for the majority of attrition.
+* Life Sciences (38%) and Medical (27%) backgrounds account for the majority of attrition.
 
-Marketing and Technical Degree holders contribute to 15% and 14% respectively.
+* Marketing and Technical Degree holders contribute to 15% and 14% respectively.
 
 💼 **Attrition by Job Role**
 
 **Top 3 roles with highest attrition:**
 
-Laboratory Technician – 62
+* Laboratory Technician – 62
 
-Sales Executive – 57
+* Sales Executive – 57
 
-Research Scientist – 47
+* Research Scientist – 47
 ➤ Indicates focus areas for role-specific engagement strategies.
 
 💰 **Attrition by Salary Slab**
 
-A striking 163 employees with salaries up to 5K have left, suggesting compensation is a major attrition driver.
+* A striking 163 employees with salaries up to 5K have left, suggesting compensation is a major attrition driver.
 
-Only 5 employees with 15K+ salaries have exited, reinforcing the impact of pay on retention.
+* Only 5 employees with 15K+ salaries have exited, reinforcing the impact of pay on retention.
 
 🕒 **Attrition by Tenure**
 
-First-year attrition is highest (59), highlighting the need for stronger onboarding and early engagement.
+* First-year attrition is highest (59), highlighting the need for stronger onboarding and early engagement.
 
-A secondary peak is observed around the 7-year mark (18), which may indicate career stagnation or missed promotion opportunities.
+* A secondary peak is observed around the 7-year mark (18), which may indicate career stagnation or missed promotion opportunities.
 
 🏢 **Departmental & Role-Based Breakdown**
 
-Highest attrition observed in Sales, Research & Development, and Technical roles.
+* Highest attrition observed in Sales, Research & Development, and Technical roles.
 
-Continuous losses across specific roles over multiple years indicate systemic issues.
+* Continuous losses across specific roles over multiple years indicate systemic issues.
 
 ✅ **Recommendations (Brief)**
 
