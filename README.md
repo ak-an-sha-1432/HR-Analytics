@@ -2,17 +2,17 @@
 
 **Overall Summary**
 
-Total Employees: 1,470
+* Total Employees: 1,470
 
-Attrition Count: 237
+* Attrition Count: 237
 
-Attrition Rate: 16.1%
+* Attrition Rate: 16.1%
 
-Average Age: 37 years
+* Average Age: 37 years
 
-Average Salary: $6.5K
+* Average Salary: $6.5K
 
-Average Tenure: 7 years
+* Average Tenure: 7 years
 
 **👤 Attrition by Demographics**
 
@@ -34,7 +34,7 @@ Marketing and Technical Degree holders contribute to 15% and 14% respectively.
 
 💼 **Attrition by Job Role**
 
-Top 3 roles with highest attrition:
+**Top 3 roles with highest attrition:**
 
 Laboratory Technician – 62
 
